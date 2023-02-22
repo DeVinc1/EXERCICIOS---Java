@@ -12,7 +12,6 @@ public class exec1{
         System.out.println("|      ENCONTRANDO O MAIOR E MENOR NÚMERO DA LISTA      |");
         System.out.println("---------------------------------------------------------");
 
-
         /*
          * Instância de Classes
          */
