@@ -10,7 +10,7 @@ O repositório é mantido e atualizado constantemente.
 
 ## 📁 A estrutura do repositório
 
-Os exercícios são separados por pastas, nas quais os arquivos de texto (`.txt`) contém o enunciado do exercício e os arquivos `.java` são as classes com as soluções dos problemas  
+Os exercícios são separados por pastas, nas quais os arquivos README.md (`.md`) contém o enunciado do exercício e os arquivos `.java` são as classes com as soluções dos problemas  
 
 ## ⚖️ Licença
 
