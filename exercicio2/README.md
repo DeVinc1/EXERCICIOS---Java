@@ -10,7 +10,7 @@ Para isso, crie uma classe chamada "Calculadora" que tenha os seguintes métodos
 
 Em seguida, na classe principal do programa, instancie um objeto da classe "Calculadora", peça ao usuário que escolha a operação que deseja realizar e em seguida peça que o usuário digite os dois números que serão utilizados na operação. Após realizar a operação, exiba na tela o resultado da operação.
 
-Certifique-se de tratar possíveis erros, como a divisão por zero, e de permitir que o usuário continue a realizar operações até que ele decida encerrar o programa.
+Certifique-se de tratar possíveis erros, como a divisão por zero, e permita que o usuário continue a realizar operações até que ele decida encerrar o programa.
 
 
 
