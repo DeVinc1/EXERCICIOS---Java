@@ -19,7 +19,7 @@ public class mainClass {
         System.out.println("---------------------------");
 
         /*
-         * Fluxo de execução do Código
+         * Variáveis do fluxo de cálculo
          */
         boolean continuar = true;
         char operacao = 'z';
@@ -27,6 +27,9 @@ public class mainClass {
         double num1 = 0;
         double num2 = 0;
 
+        /*
+         * Fluxo de cálculo
+         */
         while (continuar == true) {
 
             System.out.println( "\nEscolha uma das seguintes operações matemáticas: \n\t a. SOMAR \n\t b. SUBTRAIR \n\t c. MULTIPLICAR \n\t d. DIVIDIR \n\t z. ENCERRAR O PROGRAMA");
